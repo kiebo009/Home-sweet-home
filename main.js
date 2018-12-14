@@ -526,7 +526,7 @@ var map = new mapboxgl.Map({
     container: 'map',
     style: mystyle,
     hash: true,
-    zoom: 16,
+    zoom: 15.8,
     pitch: 33,
     bearing: 9.6,
     center: [ 5.665, 51.981]
