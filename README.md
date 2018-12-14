@@ -2,4 +2,4 @@
 
 This repository contains the scripts and data for my first interactive web map made with Vector Tiles.
 
-You can view my map <[HERE](http://kiebo009.github.io/Home-sweet-home)>
+You can view my map <[HERE](http://kiebo009.github.io/Home-sweet-home/index.html)>
