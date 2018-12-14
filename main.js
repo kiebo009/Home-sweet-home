@@ -527,10 +527,11 @@ var map = new mapboxgl.Map({
     style: mystyle,
     hash: true,
     zoom: 16,
-    pitch: 60,
-    bearing: 62.4,
-    center: [ 52.0, 5.7]
+    pitch: 33,
+    bearing: 9.6,
+    center: [ 5.665, 51.981]
 });
+
 // Make a GEOJSON
 var wurjson = {
   "type": "FeatureCollection",
